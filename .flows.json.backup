@@ -33,32 +33,5 @@
         "wires": [
             []
         ]
-    },
-    {
-        "id": "22db13826736cd61",
-        "type": "inject",
-        "z": "ba14b0fc788e81e4",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 160,
-        "y": 180,
-        "wires": [
-            []
-        ]
     }
 ]
